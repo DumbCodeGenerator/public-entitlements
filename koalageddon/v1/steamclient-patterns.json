@@ -3,5 +3,5 @@
     "IsSubscribedApp": "55 8B EC 8B 45 08 83 EC ?? 85 C0 79",
     "GetDLCDataByIndex": "55 8B EC 83 7D 10 ?? 8B C1",
     "SharedLibraryStopPlaying": "55 8B EC ?? EC 90 ?? ?? ?? 53 56 57 89 4D",
-    "FamilyGroupRunningApp": "55 8B ?? ?? EC C8 ?? ?? ?? 33"
+    "FamilyGroupRunningApp": "55 8B EC 81 EC 9C 00 00 00 53 33 DB"
 }
